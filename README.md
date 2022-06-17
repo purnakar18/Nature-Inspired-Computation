@@ -14,7 +14,6 @@ The Travelling Thief problem is a combination of the Travelling Salesman problem
 Documentation:
 
 The problem description can be found in the page: https://www.egr.msu.edu/coinlab/blankjul/gecco19-thief/
-Further description of the problem and algorithms used has been discussed in the coursework report of the group and individuals
 
 
 Methods:
